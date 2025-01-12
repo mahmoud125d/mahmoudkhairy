@@ -17,6 +17,7 @@ public class Mahmoudkhairy {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello from mahmoud");
+        System.out.println("Hello Hello");
     }
     
 }
